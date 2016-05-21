@@ -1,0 +1,31 @@
+{
+  "name": "summit",
+  "authors": [
+    "Ilya Rostovtsev <ilyaforpresident@gmail.com>"
+  ],
+  "description": "game prototype",
+  "main": "index.html",
+  "keywords": [
+    "hill",
+    "top",
+    "summit",
+    "magical",
+    "countryside",
+    "help",
+    "others"
+  ],
+  "license": "BSD-2",
+  "homepage": "http://ilya.audio/summit",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper": "^0.9.25",
+    "three.js": "threejs#*"
+  }
+}
